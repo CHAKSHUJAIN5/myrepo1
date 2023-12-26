@@ -1,0 +1,8 @@
+1. Github account 
+2. empty repo crete
+3. local system 
+   git config --global user.name "CHAKSHUAJAIN5" 
+   git config --global email "chakshujain5@gmail.com"
+4. git push -u origin master
+   4.1.  username? -> CHAKSHUJAIN5 
+   4.2.  password? -> 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
